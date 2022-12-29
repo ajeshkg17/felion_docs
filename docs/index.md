@@ -3,6 +3,10 @@ hide:
   - navigation
   - toc
 ---
+<figure markdown>
+  ![Image title](assets/images/app/home.png){ align=left }
+  <figcaption>Fig 1: The FELion GUI v4 - Home Screen</figcaption>
+</figure>
 
 
 # Introduction
@@ -13,7 +17,3 @@ The software is developed by [A.N. Marimuthu](https://github.com/aravindhnivas){
 
 [:fontawesome-solid-download: Download FELionGUIv4](https://github.com/aravindhnivas/felion_gui_v4/releases/download/v4.0.8/felion_gui_v4_4.0.8_x64_en-US.msi.zip){ .md-button .md-button--primary}
 
-<figure markdown>
-  ![Image title](assets/images/app/home.png){ align=left }
-  <figcaption>Fig 1: The FELion GUI v4 - Home Screen</figcaption>
-</figure>
